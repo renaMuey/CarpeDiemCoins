@@ -1,2 +1,2 @@
-# CarpeDiemCoins
+# CarpeDiemBudget
 Simple budget management application !

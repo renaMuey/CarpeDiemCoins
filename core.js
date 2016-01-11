@@ -1,7 +1,7 @@
 // Carpe Diem Budget Javascript Code Here
 
-var transactions = [],
-    farestDate,
+var transactions = [], // tableau de transactions
+    farestDate, 
     spendingPeriodLength,
     totalRemainingMoney,
     savingRate,
